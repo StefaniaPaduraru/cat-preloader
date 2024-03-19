@@ -472,4 +472,7 @@ overflow: hidden;
     .cat-2{
         margin-bottom:20%;
     }
+    .cat-2 {
+        animation: moveCat 5s ease-in-out infinite;
+    }
 }
